@@ -1,0 +1,11 @@
+COMMUNITIES
+ID 41, 87 actors: Pierre Richard, Denis Lavant, Queen Latifah, Brigitte Bardot, Alain Delon, Bernard Fresson, Michel Lonsdale, Emmanuelle Beart, Dolly Parton, Jane Birkin, Whoopie Goldberg, Bryan Kevin, Sam Neil, Gig Young, Jez Yzad, ...
+ID 318, 13 actors: Oliver Hardy, Sam Adams, Charlie Hall, Blanche Payson, Jean Parker, Charles Middleton, James W. Horne, Anita Garvin, Robert Donat, Lucien Littlefield, James Finlayson, Reginald Gardiner, Stan Laurel
+ID 164, 12 actors: Victor Jansen, Alfred Abel, Ernst Lubitsch, Julius Falkenstein, Harry Liedtke, Paul Biensfeldt, Reinhold Schunzel, Paul Heideman, Hermann Thimig, Hilde Wörner, Max Laurens, Pola Negri
+ID 498, 11 actors: Lilith Ungerer, Irm Herrmann, Eva Mattes, Margit Carstensen, Hanna Scygulla, Hans Hirschmüller, Gunther Kaufmann, Amadeus Fengler, Kurt Raab, Harry Baer, Margarethe vonTrotta
+ID 1083, 9 actors: Miriam Hopkins, David Niven, Claudette Colbert, John McGiver, Charlie Ruggles, Maurice Chevalier, Nat Pendleton, George Babier, Herman Bing
+ID 758, 9 actors: Howard Duff, Bobby Clark, Barry Fitzgerald, Anthony Huston, Gloria Talbot, Dorothy Hart, Dan Dailey, Jan Sterling, Artuhr Shield
+ID 495, 8 actors: Edward G. Robinson, Basil Rathbone, Louis Calhern, Tilly Losch, Liza Minnelli, George Raft, Elsa Lancaster, Tyrone Power
+ID 671, 6 actors: JeanPaul Belmondo, Toto, Silvana Mangano, Doris Dowling, Raf Vallone, Eleanora Brown
+ID 1251, 6 actors: Ruth Gordon, William Prince, Pat Hingle, Sondra Locke, Geoffrey Lewis, Harry Guardino
+ID 178, 6 actors: Susan Damante Shaw, George "Buck" Flower, Heather Rattray, Hollye Holmes, Ham Larsen, Robert F. Logan

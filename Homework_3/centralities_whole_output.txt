@@ -1,0 +1,33 @@
+CENTRALITIES
+--------------------------------------------------------------------------------
+degree_centrality - top 5: 
+
+s a --> 0.19923
+Humphrey Bogart --> 0.025942
+James Stewart --> 0.022511
+Gary Cooper --> 0.02227
+John Gielgud --> 0.02227
+--------------------------------------------------------------------------------
+closeness_centrality - top 5: 
+
+s a --> 0.47356
+Charlton Heston --> 0.36845
+John Gielgud --> 0.367
+John Carradine --> 0.36667
+Burt Lancaster --> 0.3665
+--------------------------------------------------------------------------------
+betweenness_centrality - top 5: 
+
+s a --> 0.34454
+Humphrey Bogart --> 0.0083201
+Vincent Price --> 0.0077839
+John Carradine --> 0.0070353
+Jack Nicholson --> 0.0066696
+--------------------------------------------------------------------------------
+eigenvector_centrality - top 5: 
+
+s a --> 0.32584
+C.Aubrey Smith --> 0.087044
+John Carradine --> 0.085586
+James Stewart --> 0.083652
+John Gielgud --> 0.081382

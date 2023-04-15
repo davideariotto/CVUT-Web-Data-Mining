@@ -1,0 +1,5 @@
+KEVIN BACON
+From person: James Stewart
+Average: 2.4820077015004647
+Lowest 10: Lee Grant (1), Kazi Orzazewski (1), John Harkins (1), Brian Donlevy (1), Penny Singleton (1), Cary Grant (1), Debbie Reynolds (1), Richard Conte (1), Louise Beavers (1), James Stewart (0)
+Highest 10:  Antonia SanJuan (6), Paredes (6), Marbel Verdu (6), Maria deMederios (6), Elisa Touati (6), Cecil Holmes (5), Pat Bishop (5), Javier Bardem (5), Gaston Batyi (5), Robert Castle (5)

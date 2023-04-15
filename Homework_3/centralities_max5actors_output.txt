@@ -1,0 +1,33 @@
+CENTRALITIES
+--------------------------------------------------------------------------------
+degree_centrality - top 5: 
+
+s a --> 0.080598
+Clint Eastwood --> 0.0064018
+Henry Fonda --> 0.0054169
+Marlon Brando --> 0.0052528
+Harvey Keitel --> 0.0050886
+--------------------------------------------------------------------------------
+closeness_centrality - top 5: 
+
+s a --> 0.22844
+Susan Sarandon --> 0.18192
+Robert Redford --> 0.18066
+Martin Sheen --> 0.18026
+Burt Reynolds --> 0.17951
+--------------------------------------------------------------------------------
+betweenness_centrality - top 5: 
+
+s a --> 0.27551
+Joan Crawford --> 0.01925
+Clark Gable --> 0.016554
+Clint Eastwood --> 0.015313
+Henry Fonda --> 0.012506
+--------------------------------------------------------------------------------
+eigenvector_centrality - top 5: 
+
+s a --> 0.68913
+Catherine Deneuve --> 0.046959
+Susan Sarandon --> 0.042869
+Lee Remick --> 0.042189
+Charles Grodin --> 0.041388
