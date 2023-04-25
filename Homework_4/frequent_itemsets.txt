@@ -1,0 +1,704 @@
+{'Type=Catalogue'} - 0.1633720930232558
+{'Referrer=URI_39'} - 0.08706395348837209
+{'Hour=(9.2, 13.8]'} - 0.33292151162790695
+{'TopicName=Hiking'} - 0.06751453488372093
+{'Referrer=URI_45'} - 0.06824127906976744
+{'Type=Partners'} - 0.10334302325581396
+{'TimeOnPage=(27.39, 552.0]'} - 0.9832848837209303
+{'Day=Sunday'} - 0.10472383720930233
+{'TopicName=exotica'} - 0.05036337209302326
+{'Length_pagecount=4.0'} - 0.14098837209302326
+{'Length_pagecount=5.0'} - 0.10392441860465117
+{'SequenceNumber=1'} - 0.21700581395348836
+{'Type=OwnWebs'} - 0.07441860465116279
+{'CatName=Trip'} - 0.35574127906976744
+{'Day=Thursday'} - 0.13386627906976745
+{'SequenceNumber=3'} - 0.16242732558139536
+{'Day=Wednesday'} - 0.15915697674418605
+{'Day=Saturday'} - 0.08125
+{'PageScore=(24.277, 1174.6]'} - 0.9830668604651163
+{'TopicName=Tourism'} - 0.07609011627906977
+{'Referrer=URI_9'} - 0.14280523255813954
+{'SequenceNumber=5'} - 0.06991279069767442
+{'CatName=Search'} - 0.45545058139534883
+{'TopicName=Tours with accommodation'} - 0.09026162790697674
+{'Type=Fulltext'} - 0.5851744186046511
+{'Length_pagecount=6.0'} - 0.07761627906976744
+{'Hour=(4.6, 9.2]'} - 0.13277616279069768
+{'Day=Friday'} - 0.11104651162790698
+{'Length_pagecount=3.0'} - 0.17180232558139535
+{'Type=Other'} - 0.07369186046511628
+{'TopicName=In general'} - 0.2440406976744186
+{'Referrer=URI_42'} - 0.19796511627906976
+{'Referrer=URI_80'} - 0.14382267441860466
+{'CatName=Info'} - 0.18611918604651162
+{'PageName=TravelAgency'} - 0.15348837209302327
+{'Length_pagecount=7.0'} - 0.06359011627906977
+{'Hour=(18.4, 23.0]'} - 0.1950581395348837
+{'SequenceNumber=2'} - 0.2157703488372093
+{'SequenceNumber=4'} - 0.10515988372093023
+{'Day=Tuesday'} - 0.19353197674418604
+{'Length_pagecount=2.0'} - 0.10668604651162791
+{'Hour=(13.8, 18.4]'} - 0.3087936046511628
+{'Day=Monday'} - 0.21642441860465117
+{'CatName=Search', 'Day=Thursday'} - 0.057630813953488375
+{'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]'} - 0.10668604651162791
+{'TopicName=In general', 'Hour=(13.8, 18.4]'} - 0.07390988372093023
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=4'} - 0.10305232558139535
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]'} - 0.13917151162790697
+{'CatName=Search', 'Length_pagecount=2.0'} - 0.051744186046511625
+{'Referrer=URI_42', 'CatName=Trip'} - 0.07129360465116279
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=7.0'} - 0.06206395348837209
+{'SequenceNumber=4', 'CatName=Trip'} - 0.05
+{'Day=Tuesday', 'Type=Fulltext'} - 0.11431686046511629
+{'Hour=(13.8, 18.4]', 'SequenceNumber=1'} - 0.0684593023255814
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(18.4, 23.0]'} - 0.19149709302325582
+{'SequenceNumber=3', 'Hour=(9.2, 13.8]'} - 0.05399709302325582
+{'SequenceNumber=2', 'Type=Fulltext'} - 0.13335755813953487
+{'TimeOnPage=(27.39, 552.0]', 'Day=Saturday'} - 0.07965116279069767
+{'Length_pagecount=4.0', 'CatName=Search'} - 0.06795058139534883
+{'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.34505813953488373
+{'Length_pagecount=2.0', 'SequenceNumber=2'} - 0.05334302325581396
+{'Referrer=URI_42', 'Type=Fulltext'} - 0.19796511627906976
+{'Length_pagecount=4.0', 'PageScore=(24.277, 1174.6]'} - 0.13960755813953488
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.5752906976744186
+{'TopicName=Tours with accommodation', 'CatName=Trip'} - 0.06315406976744187
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday'} - 0.21337209302325583
+{'Hour=(9.2, 13.8]', 'Referrer=URI_80'} - 0.05094476744186047
+{'CatName=Search', 'Day=Wednesday'} - 0.07209302325581396
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=5.0'} - 0.10203488372093024
+{'PageScore=(24.277, 1174.6]', 'TopicName=Hiking'} - 0.06635174418604652
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]'} - 0.19498546511627907
+{'Hour=(13.8, 18.4]', 'Day=Tuesday'} - 0.05188953488372093
+{'TopicName=Tours with accommodation', 'PageScore=(24.277, 1174.6]'} - 0.08822674418604651
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0'} - 0.16925872093023256
+{'TimeOnPage=(27.39, 552.0]', 'Type=Other'} - 0.07281976744186046
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'} - 0.2403343023255814
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2'} - 0.2125
+{'SequenceNumber=3', 'Length_pagecount=3.0'} - 0.05726744186046512
+{'Hour=(13.8, 18.4]', 'CatName=Info'} - 0.055232558139534885
+{'PageScore=(24.277, 1174.6]', 'Day=Saturday'} - 0.07979651162790698
+{'CatName=Search', 'Day=Monday'} - 0.09840116279069767
+{'Length_pagecount=3.0', 'Hour=(13.8, 18.4]'} - 0.05079941860465116
+{'PageName=TravelAgency', 'Hour=(9.2, 13.8]'} - 0.05029069767441861
+{'Day=Thursday', 'PageScore=(24.277, 1174.6]'} - 0.13190406976744187
+{'Day=Monday', 'PageScore=(24.277, 1174.6]'} - 0.21351744186046512
+{'PageScore=(24.277, 1174.6]', 'CatName=Info'} - 0.1846656976744186
+{'CatName=Search', 'Length_pagecount=3.0'} - 0.08292151162790698
+{'Length_pagecount=4.0', 'Type=Fulltext'} - 0.08343023255813954
+{'Length_pagecount=3.0', 'Hour=(9.2, 13.8]'} - 0.05755813953488372
+{'CatName=Search', 'SequenceNumber=2'} - 0.15690406976744187
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=Hiking'} - 0.06656976744186047
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]'} - 0.19440406976744187
+{'Day=Monday', 'CatName=Trip'} - 0.07543604651162791
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0'} - 0.17034883720930233
+{'Type=Other', 'PageScore=(24.277, 1174.6]'} - 0.07245639534883722
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=6.0'} - 0.07623546511627907
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(4.6, 9.2]'} - 0.1305232558139535
+{'Hour=(9.2, 13.8]', 'Type=Catalogue'} - 0.05966569767441861
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_80'} - 0.14200581395348838
+{'Hour=(18.4, 23.0]', 'CatName=Trip'} - 0.07129360465116279
+{'CatName=Search', 'Type=Catalogue'} - 0.06700581395348837
+{'TopicName=In general', 'PageName=TravelAgency'} - 0.15348837209302327
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=1'} - 0.21286337209302325
+{'TimeOnPage=(27.39, 552.0]', 'Type=OwnWebs'} - 0.071875
+{'TimeOnPage=(27.39, 552.0]', 'Day=Thursday'} - 0.13161337209302326
+{'Day=Wednesday', 'Hour=(9.2, 13.8]'} - 0.05486918604651163
+{'Hour=(9.2, 13.8]', 'Day=Tuesday'} - 0.07739825581395349
+{'CatName=Search', 'Referrer=URI_80'} - 0.06976744186046512
+{'Length_pagecount=3.0', 'TopicName=In general'} - 0.06061046511627907
+{'SequenceNumber=4', 'Type=Fulltext'} - 0.06061046511627907
+{'Day=Thursday', 'Type=Fulltext'} - 0.07638081395348838
+{'CatName=Search', 'Hour=(4.6, 9.2]'} - 0.058502906976744186
+{'Type=Fulltext', 'SequenceNumber=1'} - 0.13430232558139535
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_39'} - 0.08561046511627907
+{'CatName=Search', 'PageScore=(24.277, 1174.6]'} - 0.4507267441860465
+{'Day=Wednesday', 'CatName=Trip'} - 0.05552325581395349
+{'Length_pagecount=2.0', 'SequenceNumber=1'} - 0.05334302325581396
+{'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]'} - 0.13045058139534885
+{'Hour=(4.6, 9.2]', 'Type=Fulltext'} - 0.08037790697674418
+{'CatName=Search', 'SequenceNumber=1'} - 0.06918604651162791
+{'PageScore=(24.277, 1174.6]', 'TopicName=Tourism'} - 0.0745639534883721
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_45'} - 0.06693313953488372
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80'} - 0.14069767441860465
+{'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.1962936046511628
+{'Day=Monday', 'Hour=(9.2, 13.8]'} - 0.07841569767441861
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Trip'} - 0.34680232558139534
+{'Type=Partners', 'PageScore=(24.277, 1174.6]'} - 0.10159883720930232
+{'TopicName=Tours with accommodation', 'Type=Fulltext'} - 0.057630813953488375
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3'} - 0.15915697674418605
+{'Referrer=URI_9', 'Type=Catalogue'} - 0.14280523255813954
+{'Day=Thursday', 'CatName=Trip'} - 0.051526162790697674
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.9783430232558139
+{'SequenceNumber=2', 'Hour=(9.2, 13.8]'} - 0.07020348837209302
+{'Day=Wednesday', 'Type=Fulltext'} - 0.09098837209302325
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search'} - 0.45058139534883723
+{'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06133720930232558
+{'SequenceNumber=2', 'PageScore=(24.277, 1174.6]'} - 0.2132267441860465
+{'Referrer=URI_42', 'CatName=Search'} - 0.08473837209302326
+{'Referrer=URI_42', 'Hour=(9.2, 13.8]'} - 0.0688953488372093
+{'CatName=Search', 'SequenceNumber=3'} - 0.07281976744186046
+{'Length_pagecount=3.0', 'SequenceNumber=1'} - 0.05726744186046512
+{'Hour=(9.2, 13.8]', 'CatName=Trip'} - 0.12129360465116279
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_45'} - 0.06678779069767442
+{'Day=Monday', 'TopicName=In general'} - 0.05530523255813954
+{'TopicName=In general', 'Type=Fulltext'} - 0.13321220930232558
+{'Length_pagecount=3.0', 'Type=Fulltext'} - 0.10486918604651163
+{'PageScore=(24.277, 1174.6]', 'Day=Tuesday'} - 0.19011627906976744
+{'CatName=Info', 'SequenceNumber=1'} - 0.12085755813953489
+{'CatName=Search', 'Day=Tuesday'} - 0.09040697674418605
+{'PageScore=(24.277, 1174.6]', 'Type=Catalogue'} - 0.16097383720930233
+{'Day=Monday', 'Type=Fulltext'} - 0.13037790697674417
+{'Length_pagecount=2.0', 'Type=Fulltext'} - 0.0755813953488372
+{'TopicName=In general', 'CatName=Info'} - 0.18611918604651162
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=6.0'} - 0.07594476744186046
+{'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.11155523255813954
+{'Hour=(9.2, 13.8]', 'SequenceNumber=1'} - 0.07100290697674419
+{'Referrer=URI_42', 'Hour=(13.8, 18.4]'} - 0.06533430232558139
+{'TimeOnPage=(27.39, 552.0]', 'Day=Tuesday'} - 0.1903343023255814
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.21686046511627907
+{'Type=OwnWebs', 'PageScore=(24.277, 1174.6]'} - 0.0720203488372093
+{'Day=Sunday', 'Type=Fulltext'} - 0.05864825581395349
+{'TimeOnPage=(27.39, 552.0]', 'Type=Catalogue'} - 0.16155523255813953
+{'TopicName=In general', 'Hour=(9.2, 13.8]'} - 0.0811046511627907
+{'TimeOnPage=(27.39, 552.0]', 'Day=Sunday'} - 0.10254360465116279
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_39'} - 0.08553779069767442
+{'Day=Monday', 'Hour=(13.8, 18.4]'} - 0.07449127906976744
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=5.0'} - 0.10152616279069768
+{'Hour=(13.8, 18.4]', 'Type=Fulltext'} - 0.17848837209302326
+{'TopicName=In general', 'SequenceNumber=1'} - 0.13997093023255813
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency'} - 0.15145348837209302
+{'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.3031976744186046
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=Tourism'} - 0.07463662790697674
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0'} - 0.10479651162790697
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=5'} - 0.0688953488372093
+{'SequenceNumber=3', 'PageScore=(24.277, 1174.6]'} - 0.15915697674418605
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_9'} - 0.14120639534883722
+{'CatName=Info', 'Type=Fulltext'} - 0.09709302325581395
+{'PageScore=(24.277, 1174.6]', 'Day=Sunday'} - 0.10239825581395348
+{'CatName=Trip', 'Type=Catalogue'} - 0.053706395348837206
+{'CatName=Search', 'Hour=(18.4, 23.0]'} - 0.08946220930232558
+{'SequenceNumber=2', 'Length_pagecount=3.0'} - 0.05726744186046512
+{'SequenceNumber=3', 'Hour=(13.8, 18.4]'} - 0.05007267441860465
+{'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11940406976744186
+{'Referrer=URI_45', 'Type=Fulltext'} - 0.06824127906976744
+{'Referrer=URI_80', 'CatName=Trip'} - 0.0592296511627907
+{'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]'} - 0.19193313953488372
+{'TimeOnPage=(27.39, 552.0]', 'Day=Friday'} - 0.10908430232558139
+{'Length_pagecount=5.0', 'Type=Fulltext'} - 0.062136627906976744
+{'CatName=Search', 'Type=Fulltext'} - 0.27311046511627907
+{'CatName=Search', 'Referrer=URI_9'} - 0.05886627906976744
+{'TimeOnPage=(27.39, 552.0]', 'Day=Wednesday'} - 0.1566860465116279
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=5'} - 0.06787790697674419
+{'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.5760174418604651
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_9'} - 0.1407703488372093
+{'SequenceNumber=2', 'Hour=(13.8, 18.4]'} - 0.06816860465116278
+{'CatName=Search', 'TopicName=In general'} - 0.05704941860465116
+{'SequenceNumber=3', 'Type=Fulltext'} - 0.09556686046511628
+{'Type=Fulltext', 'CatName=Trip'} - 0.21351744186046512
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]'} - 0.08837209302325581
+{'CatName=Search', 'Day=Friday'} - 0.050872093023255814
+{'Referrer=URI_80', 'Type=Fulltext'} - 0.14382267441860466
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]'} - 0.3287063953488372
+{'PageScore=(24.277, 1174.6]', 'TopicName=In general'} - 0.24178779069767442
+{'Type=Partners', 'TimeOnPage=(27.39, 552.0]'} - 0.10174418604651163
+{'PageScore=(24.277, 1174.6]', 'Day=Friday'} - 0.109375
+{'Day=Friday', 'Type=Fulltext'} - 0.06751453488372093
+{'PageName=TravelAgency', 'CatName=Info'} - 0.15348837209302327
+{'PageScore=(24.277, 1174.6]', 'Day=Wednesday'} - 0.1559593023255814
+{'Referrer=URI_39', 'Type=Fulltext'} - 0.08706395348837209
+{'CatName=Search', 'Hour=(13.8, 18.4]'} - 0.1414970930232558
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=4'} - 0.10348837209302325
+{'SequenceNumber=3', 'CatName=Trip'} - 0.07587209302325582
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Info'} - 0.1833575581395349
+{'CatName=Search', 'Hour=(9.2, 13.8]'} - 0.14978197674418606
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=7.0'} - 0.0625
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]'} - 0.30276162790697675
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.3278343023255814
+{'Hour=(13.8, 18.4]', 'CatName=Trip'} - 0.11090116279069767
+{'Referrer=URI_42', 'TopicName=In general'} - 0.05145348837209302
+{'Day=Tuesday', 'CatName=Trip'} - 0.06744186046511629
+{'PageName=TravelAgency', 'Type=Fulltext'} - 0.07710755813953489
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'} - 0.15268895348837208
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'SequenceNumber=1'} - 0.13175872093023255
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(4.6, 9.2]', 'CatName=Search'} - 0.05821220930232558
+{'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07710755813953489
+{'PageName=TravelAgency', 'CatName=Info', 'SequenceNumber=1'} - 0.11940406976744186
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.14200581395348838
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=6.0'} - 0.07565406976744186
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.32696220930232556
+{'Referrer=URI_42', 'CatName=Search', 'PageScore=(24.277, 1174.6]'} - 0.08350290697674419
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'SequenceNumber=1'} - 0.07100290697674419
+{'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]', 'Type=Fulltext'} - 0.07928779069767442
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'SequenceNumber=1'} - 0.13837209302325582
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.06911337209302326
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Catalogue'} - 0.059156976744186046
+{'CatName=Search', 'Day=Monday', 'PageScore=(24.277, 1174.6]'} - 0.09760174418604652
+{'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info'} - 0.15348837209302327
+{'CatName=Search', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.05167151162790698
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Info', 'SequenceNumber=1'} - 0.11954941860465117
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'Hour=(9.2, 13.8]'} - 0.05683139534883721
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=4', 'Type=Fulltext'} - 0.059593023255813955
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Hour=(9.2, 13.8]'} - 0.08001453488372093
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'TopicName=In general'} - 0.06046511627906977
+{'Referrer=URI_42', 'Type=Fulltext', 'CatName=Trip'} - 0.07129360465116279
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'CatName=Trip'} - 0.07405523255813953
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'CatName=Trip'} - 0.20813953488372092
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'CatName=Search'} - 0.15530523255813952
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.19367732558139536
+{'CatName=Search', 'Day=Monday', 'Type=Fulltext'} - 0.06177325581395349
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_45', 'Type=Fulltext'} - 0.06693313953488372
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06068313953488372
+{'Hour=(13.8, 18.4]', 'Day=Tuesday', 'PageScore=(24.277, 1174.6]'} - 0.05094476744186047
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'PageScore=(24.277, 1174.6]'} - 0.2125
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search'} - 0.08364825581395349
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'SequenceNumber=1'} - 0.057194767441860465
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'SequenceNumber=3'} - 0.057194767441860465
+{'TopicName=In general', 'PageName=TravelAgency', 'Hour=(9.2, 13.8]'} - 0.05029069767441861
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'CatName=Search'} - 0.0973110465116279
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'CatName=Search'} - 0.26969476744186044
+{'Length_pagecount=4.0', 'CatName=Search', 'PageScore=(24.277, 1174.6]'} - 0.06765988372093024
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1'} - 0.12085755813953489
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=5'} - 0.06787790697674419
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Day=Tuesday'} - 0.07623546511627907
+{'TopicName=In general', 'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Type=Fulltext'} - 0.12819767441860466
+{'Length_pagecount=4.0', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.08241279069767442
+{'Length_pagecount=3.0', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.05704941860465116
+{'Hour=(9.2, 13.8]', 'Type=Fulltext', 'Referrer=URI_80'} - 0.05094476744186047
+{'PageScore=(24.277, 1174.6]', 'Day=Thursday', 'CatName=Trip'} - 0.05029069767441861
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.1407703488372093
+{'SequenceNumber=2', 'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0'} - 0.05559593023255814
+{'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Trip'} - 0.20792151162790698
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.0877906976744186
+{'TimeOnPage=(27.39, 552.0]', 'Type=Catalogue', 'CatName=Trip'} - 0.05276162790697674
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Hour=(18.4, 23.0]'} - 0.08851744186046512
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'PageScore=(24.277, 1174.6]'} - 0.4495639534883721
+{'CatName=Search', 'Referrer=URI_9', 'Type=Catalogue'} - 0.05886627906976744
+{'PageScore=(24.277, 1174.6]', 'Day=Wednesday', 'Type=Fulltext'} - 0.08938953488372094
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]'} - 0.12986918604651163
+{'TimeOnPage=(27.39, 552.0]', 'Day=Tuesday', 'CatName=Trip'} - 0.06584302325581395
+{'CatName=Info', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07710755813953489
+{'TimeOnPage=(27.39, 552.0]', 'Day=Wednesday', 'CatName=Trip'} - 0.053924418604651164
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3', 'CatName=Search'} - 0.0721656976744186
+{'Referrer=URI_80', 'Type=Fulltext', 'CatName=Trip'} - 0.0592296511627907
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'CatName=Trip'} - 0.11954941860465117
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3', 'Hour=(9.2, 13.8]'} - 0.05319767441860465
+{'TopicName=In general', 'CatName=Info', 'Type=Fulltext'} - 0.09709302325581395
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search'} - 0.06765988372093024
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3', 'PageScore=(24.277, 1174.6]'} - 0.15915697674418605
+{'Length_pagecount=2.0', 'CatName=Search', 'PageScore=(24.277, 1174.6]'} - 0.051744186046511625
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.06918604651162791
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Day=Tuesday'} - 0.07638081395348838
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.14120639534883722
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_39'} - 0.08539244186046512
+{'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.0755813953488372
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'CatName=Info'} - 0.1846656976744186
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'TopicName=In general'} - 0.051090116279069765
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'Day=Thursday'} - 0.05704941860465116
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(4.6, 9.2]', 'Type=Fulltext'} - 0.07928779069767442
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=1'} - 0.06824127906976744
+{'Length_pagecount=2.0', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.10479651162790697
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_39', 'Type=Fulltext'} - 0.08553779069767442
+{'TimeOnPage=(27.39, 552.0]', 'Day=Thursday', 'PageScore=(24.277, 1174.6]'} - 0.1309593023255814
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.21286337209302325
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=OwnWebs'} - 0.07114825581395348
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Day=Wednesday'} - 0.07143895348837209
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'PageScore=(24.277, 1174.6]'} - 0.2127906976744186
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.5730377906976745
+{'TopicName=Tours with accommodation', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.06148255813953488
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Referrer=URI_80'} - 0.050436046511627905
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=4', 'Type=Fulltext'} - 0.059811046511627906
+{'CatName=Search', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.08204941860465116
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'TopicName=In general'} - 0.06002906976744186
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Day=Friday'} - 0.05050872093023256
+{'SequenceNumber=3', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.09345930232558139
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0', 'Type=Fulltext'} - 0.07434593023255814
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'CatName=Info'} - 0.1833575581395349
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]'} - 0.1909156976744186
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80', 'CatName=Trip'} - 0.05712209302325581
+{'TopicName=In general', 'CatName=Info', 'SequenceNumber=1'} - 0.12085755813953489
+{'Hour=(9.2, 13.8]', 'Type=Fulltext', 'CatName=Trip'} - 0.07252906976744186
+{'CatName=Search', 'Day=Thursday', 'PageScore=(24.277, 1174.6]'} - 0.05704941860465116
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'CatName=Info'} - 0.15145348837209302
+{'SequenceNumber=3', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.057194767441860465
+{'Hour=(13.8, 18.4]', 'CatName=Info', 'PageScore=(24.277, 1174.6]'} - 0.054796511627906976
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.06417151162790698
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_39', 'Type=Fulltext'} - 0.08561046511627907
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday'} - 0.18946220930232557
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Wednesday'} - 0.15545058139534884
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'} - 0.1313953488372093
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.2700581395348837
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_9'} - 0.05864825581395349
+{'Length_pagecount=3.0', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.05058139534883721
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.3430232558139535
+{'Length_pagecount=2.0', 'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2'} - 0.053270348837209304
+{'TopicName=Tours with accommodation', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.05617732558139535
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Day=Wednesday'} - 0.0715843023255814
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]', 'CatName=Trip'} - 0.061700581395348834
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.13917151162790697
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'CatName=Search'} - 0.056104651162790696
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Referrer=URI_80'} - 0.05029069767441861
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.08204941860465116
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Info'} - 0.18321220930232557
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'CatName=Search'} - 0.08175872093023256
+{'TimeOnPage=(27.39, 552.0]', 'Day=Friday', 'CatName=Search'} - 0.050436046511627905
+{'SequenceNumber=2', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0'} - 0.0559593023255814
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Hour=(9.2, 13.8]'} - 0.06940406976744186
+{'PageScore=(24.277, 1174.6]', 'Type=Catalogue', 'CatName=Trip'} - 0.051962209302325583
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3', 'Type=Fulltext'} - 0.09345930232558139
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]'} - 0.08851744186046512
+{'Referrer=URI_42', 'Hour=(13.8, 18.4]', 'Type=Fulltext'} - 0.06533430232558139
+{'TimeOnPage=(27.39, 552.0]', 'Day=Tuesday', 'Type=Fulltext'} - 0.11286337209302326
+{'TimeOnPage=(27.39, 552.0]', 'Day=Wednesday', 'Type=Fulltext'} - 0.08953488372093023
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07688953488372093
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Type=Fulltext'} - 0.17478197674418605
+{'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'CatName=Trip'} - 0.06511627906976744
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Saturday'} - 0.07921511627906977
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info'} - 0.15268895348837208
+{'SequenceNumber=2', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.13132267441860465
+{'Referrer=URI_42', 'CatName=Search', 'Type=Fulltext'} - 0.08473837209302326
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'CatName=Info'} - 0.054360465116279066
+{'SequenceNumber=3', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.05319767441860465
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'Type=Fulltext'} - 0.10370639534883722
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Hour=(9.2, 13.8]'} - 0.07732558139534884
+{'PageScore=(24.277, 1174.6]', 'Day=Friday', 'Type=Fulltext'} - 0.06664244186046511
+{'TopicName=In general', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.1321220930232558
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_9', 'CatName=Search'} - 0.05872093023255814
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_45'} - 0.06664244186046511
+{'Day=Monday', 'PageScore=(24.277, 1174.6]', 'TopicName=In general'} - 0.05494186046511628
+{'CatName=Search', 'SequenceNumber=2', 'Type=Fulltext'} - 0.09258720930232558
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.19440406976744187
+{'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=2'} - 0.05334302325581396
+{'TopicName=In general', 'PageName=TravelAgency', 'PageScore=(24.277, 1174.6]'} - 0.15268895348837208
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.05625
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Hour=(13.8, 18.4]'} - 0.07267441860465117
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'Length_pagecount=2.0'} - 0.05116279069767442
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'CatName=Trip'} - 0.06984011627906976
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=4'} - 0.10305232558139535
+{'CatName=Search', 'Day=Tuesday', 'Type=Fulltext'} - 0.053270348837209304
+{'CatName=Search', 'Hour=(13.8, 18.4]', 'Type=Fulltext'} - 0.0845203488372093
+{'TimeOnPage=(27.39, 552.0]', 'Day=Thursday', 'Type=Fulltext'} - 0.07485465116279069
+{'CatName=Info', 'Type=Fulltext', 'SequenceNumber=1'} - 0.06206395348837209
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'CatName=Trip'} - 0.10763081395348838
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=5.0'} - 0.10152616279069768
+{'Day=Monday', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.07390988372093023
+{'TopicName=In general', 'Type=Fulltext', 'SequenceNumber=1'} - 0.07463662790697674
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'} - 0.050872093023255814
+{'Type=Partners', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.10116279069767442
+{'Hour=(13.8, 18.4]', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.17565406976744186
+{'Referrer=URI_42', 'TopicName=In general', 'Type=Fulltext'} - 0.05145348837209302
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Type=Fulltext'} - 0.1308139534883721
+{'PageScore=(24.277, 1174.6]', 'Length_pagecount=5.0', 'Type=Fulltext'} - 0.06097383720930233
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.30116279069767443
+{'Day=Monday', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.07703488372093023
+{'CatName=Trip', 'TimeOnPage=(27.39, 552.0]', 'Hour=(18.4, 23.0]'} - 0.06933139534883721
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Catalogue'} - 0.06678779069767442
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80'} - 0.1404796511627907
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.1934593023255814
+{'Hour=(13.8, 18.4]', 'Type=Fulltext', 'CatName=Trip'} - 0.0654796511627907
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Hour=(9.2, 13.8]'} - 0.05
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'CatName=Search'} - 0.13968023255813952
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'} - 0.15145348837209302
+{'TopicName=In general', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.07311046511627907
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'} - 0.16061046511627908
+{'SequenceNumber=2', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.06707848837209303
+{'TimeOnPage=(27.39, 552.0]', 'Day=Tuesday', 'CatName=Search'} - 0.08946220930232558
+{'PageScore=(24.277, 1174.6]', 'Day=Sunday', 'Type=Fulltext'} - 0.05755813953488372
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=7.0'} - 0.061991279069767445
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=3', 'CatName=Trip'} - 0.07347383720930233
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.14796511627906977
+{'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]', 'CatName=Trip'} - 0.10734011627906977
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'} - 0.24004360465116278
+{'Day=Monday', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.050872093023255814
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.16925872093023256
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.14069767441860465
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Other'} - 0.07238372093023256
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Friday'} - 0.10864825581395349
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]'} - 0.06824127906976744
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'CatName=Trip'} - 0.05792151162790698
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'SequenceNumber=1'} - 0.07020348837209302
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.1092296511627907
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'} - 0.15138081395348837
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=5.0', 'Type=Fulltext'} - 0.06068313953488372
+{'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]', 'CatName=Trip'} - 0.06947674418604652
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'} - 0.06664244186046511
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]'} - 0.06417151162790698
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'Hour=(13.8, 18.4]'} - 0.0501453488372093
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Hour=(13.8, 18.4]'} - 0.06664244186046511
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'Type=Fulltext'} - 0.09658430232558139
+{'CatName=Search', 'Length_pagecount=3.0', 'Type=Fulltext'} - 0.05210755813953488
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday'} - 0.08946220930232558
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_9'} - 0.14040697674418604
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'TopicName=In general'} - 0.05625
+{'TopicName=In general', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.08037790697674418
+{'CatName=Search', 'Referrer=URI_80', 'Type=Fulltext'} - 0.06976744186046512
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=3', 'CatName=Trip'} - 0.07347383720930233
+{'Day=Monday', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.07369186046511628
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'CatName=Search'} - 0.14796511627906977
+{'SequenceNumber=2', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.06947674418604652
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=Hiking'} - 0.06627906976744186
+{'CatName=Search', 'SequenceNumber=2', 'PageScore=(24.277, 1174.6]'} - 0.15559593023255813
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Day=Tuesday'} - 0.050872093023255814
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_45', 'Type=Fulltext'} - 0.06678779069767442
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11816860465116279
+{'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.0684593023255814
+{'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'Type=Fulltext'} - 0.1125
+{'CatName=Search', 'SequenceNumber=2', 'Hour=(9.2, 13.8]'} - 0.05
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.06787790697674419
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0', 'SequenceNumber=1'} - 0.051526162790697674
+{'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.10966569767441861
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'SequenceNumber=1'} - 0.05646802325581395
+{'TimeOnPage=(27.39, 552.0]', 'Day=Friday', 'Type=Fulltext'} - 0.06635174418604652
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'Type=Fulltext'} - 0.1028343023255814
+{'PageName=TravelAgency', 'Type=Fulltext', 'SequenceNumber=1'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'TopicName=In general'} - 0.05465116279069768
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.19498546511627907
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Info', 'Type=Fulltext'} - 0.09600290697674418
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80'} - 0.06896802325581396
+{'CatName=Search', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.09011627906976744
+{'Day=Wednesday', 'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]'} - 0.054360465116279066
+{'Day=Monday', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.12848837209302325
+{'TopicName=In general', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06133720930232558
+{'TimeOnPage=(27.39, 552.0]', 'Day=Thursday', 'CatName=Trip'} - 0.05029069767441861
+{'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'SequenceNumber=1'} - 0.1342296511627907
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]'} - 0.05821220930232558
+{'Day=Thursday', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.07529069767441861
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'SequenceNumber=1'} - 0.06686046511627906
+{'CatName=Search', 'Type=Fulltext', 'SequenceNumber=1'} - 0.053125
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Hour=(13.8, 18.4]'} - 0.07340116279069768
+{'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.05334302325581396
+{'PageScore=(24.277, 1174.6]', 'Day=Wednesday', 'CatName=Trip'} - 0.053270348837209304
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=3'} - 0.0721656976744186
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=Tourism'} - 0.07383720930232558
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Trip'} - 0.11853197674418604
+{'Referrer=URI_42', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.0688953488372093
+{'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1'} - 0.1398982558139535
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.1938953488372093
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Catalogue'} - 0.05901162790697674
+{'TopicName=In general', 'Hour=(13.8, 18.4]', 'CatName=Info'} - 0.055232558139534885
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'} - 0.13997093023255813
+{'PageName=TravelAgency', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.05029069767441861
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80'} - 0.06933139534883721
+{'Day=Wednesday', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.054142441860465115
+{'TimeOnPage=(27.39, 552.0]', 'Day=Sunday', 'Type=Fulltext'} - 0.05748546511627907
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Sunday'} - 0.10181686046511627
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.06787790697674419
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.07688953488372093
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.1930232558139535
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Type=Fulltext', 'CatName=Trip'} - 0.06359011627906977
+{'CatName=Search', 'SequenceNumber=2', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.09164244186046512
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'} - 0.07260174418604651
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Fulltext', 'CatName=Search'} - 0.08888081395348837
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Sunday', 'Type=Fulltext'} - 0.05726744186046512
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11816860465116279
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'Hour=(9.2, 13.8]'} - 0.05683139534883721
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.08204941860465116
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'CatName=Search'} - 0.08175872093023256
+{'Referrer=URI_42', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Trip'} - 0.06918604651162791
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Friday', 'CatName=Search'} - 0.05029069767441861
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Trip'} - 0.20646802325581395
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=3', 'Type=Fulltext'} - 0.09345930232558139
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06053779069767442
+{'CatName=Search', 'Day=Monday', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.061046511627906974
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.05872093023255814
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Wednesday', 'Type=Fulltext'} - 0.08909883720930233
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'} - 0.07645348837209302
+{'Referrer=URI_42', 'TopicName=In general', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.051090116279069765
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1'} - 0.13837209302325582
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]', 'CatName=Trip'} - 0.0688953488372093
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'} - 0.06664244186046511
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Catalogue'} - 0.058938953488372095
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info'} - 0.15268895348837208
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'CatName=Info', 'TopicName=In general'} - 0.054360465116279066
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.051090116279069765
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.13931686046511627
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'CatName=Search'} - 0.08938953488372094
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext', 'Referrer=URI_80'} - 0.050436046511627905
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'Type=Fulltext'} - 0.052688953488372096
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.05559593023255814
+{'CatName=Search', 'Hour=(13.8, 18.4]', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.08357558139534883
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue', 'CatName=Trip'} - 0.051962209302325583
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(18.4, 23.0]'} - 0.08837209302325581
+{'Type=Fulltext', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1'} - 0.06206395348837209
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.05864825581395349
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'CatName=Trip'} - 0.0650436046511628
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'} - 0.05079941860465116
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'SequenceNumber=1'} - 0.07020348837209302
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.1089389534883721
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Hour=(9.2, 13.8]', 'TopicName=In general'} - 0.05
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'PageScore=(24.277, 1174.6]', 'CatName=Search'} - 0.0971656976744186
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'Type=Fulltext', 'SequenceNumber=1'} - 0.060392441860465114
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'Hour=(18.4, 23.0]'} - 0.05101744186046512
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'Type=Fulltext'} - 0.05145348837209302
+{'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext', 'SequenceNumber=1'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Type=Fulltext', 'CatName=Search'} - 0.08313953488372093
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext', 'SequenceNumber=1'} - 0.07390988372093023
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Fulltext', 'CatName=Trip'} - 0.0715843023255814
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'SequenceNumber=1'} - 0.05646802325581395
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=3', 'CatName=Search'} - 0.0721656976744186
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext', 'CatName=Trip'} - 0.05792151162790698
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Trip'} - 0.11824127906976745
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.06824127906976744
+{'Length_pagecount=4.0', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Search'} - 0.06765988372093024
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'CatName=Search'} - 0.06896802325581396
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.08888081395348837
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Day=Tuesday'} - 0.07601744186046512
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Day=Wednesday'} - 0.05406976744186046
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.06933139534883721
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=3', 'CatName=Trip'} - 0.07347383720930233
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Search'} - 0.14767441860465116
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Type=Fulltext'} - 0.06417151162790698
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'CatName=Trip'} - 0.05690406976744186
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Type=Fulltext', 'CatName=Trip'} - 0.07107558139534884
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80', 'Type=Fulltext', 'CatName=Trip'} - 0.05712209302325581
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]', 'Type=Fulltext'} - 0.07899709302325582
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.06824127906976744
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'CatName=Info', 'Type=Fulltext'} - 0.09600290697674418
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info'} - 0.15145348837209302
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]', 'CatName=Info'} - 0.054796511627906976
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.05
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'} - 0.0559593023255814
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'Day=Tuesday', 'Type=Fulltext', 'CatName=Search'} - 0.05276162790697674
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.06940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'CatName=Info', 'SequenceNumber=1'} - 0.061555232558139536
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.06686046511627906
+{'Referrer=URI_42', 'Hour=(13.8, 18.4]', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.06417151162790698
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'Type=Fulltext'} - 0.11228197674418605
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.17420058139534883
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.07340116279069768
+{'Type=Fulltext', 'TopicName=In general', 'CatName=Info', 'SequenceNumber=1'} - 0.06206395348837209
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1'} - 0.12085755813953489
+{'TopicName=In general', 'PageName=TravelAgency', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.05029069767441861
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_39', 'Type=Fulltext'} - 0.08539244186046512
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1'} - 0.11954941860465117
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Wednesday', 'CatName=Search'} - 0.07136627906976745
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.06119186046511628
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'Referrer=URI_80'} - 0.050218023255813954
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Hour=(9.2, 13.8]', 'CatName=Info'} - 0.06068313953488372
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'SequenceNumber=1'} - 0.13175872093023255
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(4.6, 9.2]', 'CatName=Search'} - 0.05813953488372093
+{'TimeOnPage=(27.39, 552.0]', 'Day=Thursday', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.0745639534883721
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.1063953488372093
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Hour=(9.2, 13.8]', 'Type=Fulltext'} - 0.05
+{'Type=Fulltext', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1'} - 0.0745639534883721
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'CatName=Info', 'PageScore=(24.277, 1174.6]'} - 0.054360465116279066
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'SequenceNumber=3'} - 0.057194767441860465
+{'Type=Fulltext', 'PageName=TravelAgency', 'CatName=Info', 'SequenceNumber=1'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_9', 'CatName=Search'} - 0.05864825581395349
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Search'} - 0.2691133720930233
+{'TopicName=Tours with accommodation', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.05581395348837209
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]'} - 0.05116279069767442
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.0688953488372093
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Hour=(9.2, 13.8]', 'PageScore=(24.277, 1174.6]'} - 0.07986918604651162
+{'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info', 'SequenceNumber=1'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_80', 'Type=Fulltext', 'CatName=Search'} - 0.06896802325581396
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'PageScore=(24.277, 1174.6]', 'CatName=Trip'} - 0.07361918604651163
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'PageScore=(24.277, 1174.6]'} - 0.15530523255813952
+{'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'CatName=Info', 'SequenceNumber=1'} - 0.11816860465116279
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.1404796511627907
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]'} - 0.06773255813953488
+{'Referrer=URI_42', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'TimeOnPage=(27.39, 552.0]'} - 0.08328488372093024
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.1308139534883721
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'CatName=Search'} - 0.08364825581395349
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'SequenceNumber=3'} - 0.05319767441860465
+{'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'Type=Fulltext'} - 0.09658430232558139
+{'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Trip'} - 0.06380813953488372
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'TopicName=In general'} - 0.15138081395348837
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'TopicName=In general', 'SequenceNumber=1'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.1278343023255814
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Day=Tuesday', 'PageScore=(24.277, 1174.6]'} - 0.05079941860465116
+{'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'Day=Monday', 'Type=Fulltext'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_45', 'Type=Fulltext'} - 0.06664244186046511
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'SequenceNumber=1'} - 0.11816860465116279
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'SequenceNumber=1'} - 0.05232558139534884
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.051526162790697674
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'} - 0.07688953488372093
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Wednesday', 'CatName=Trip'} - 0.0529796511627907
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'CatName=Info', 'SequenceNumber=1'} - 0.11954941860465117
+{'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Day=Thursday', 'PageScore=(24.277, 1174.6]'} - 0.05683139534883721
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=5.0', 'Type=Fulltext'} - 0.06068313953488372
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.06373546511627907
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(13.8, 18.4]', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.0501453488372093
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Hour=(13.8, 18.4]', 'PageScore=(24.277, 1174.6]'} - 0.06664244186046511
+{'TimeOnPage=(27.39, 552.0]', 'Hour=(9.2, 13.8]', 'Type=Fulltext', 'Referrer=URI_80'} - 0.05029069767441861
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.14040697674418604
+{'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'} - 0.07710755813953489
+{'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'SequenceNumber=1'} - 0.053052325581395346
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info'} - 0.15138081395348837
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Friday', 'Type=Fulltext'} - 0.06620639534883721
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'Type=Fulltext'} - 0.1028343023255814
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.13132267441860465
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext', 'SequenceNumber=1'} - 0.06082848837209302
+{'TimeOnPage=(27.39, 552.0]', 'Day=Monday', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'} - 0.05465116279069768
+{'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'Type=Fulltext', 'CatName=Search'} - 0.09142441860465116
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.19367732558139536
+{'Length_pagecount=2.0', 'TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2', 'PageScore=(24.277, 1174.6]'} - 0.053270348837209304
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'Type=Fulltext'} - 0.09600290697674418
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=3.0', 'Type=Fulltext', 'CatName=Search'} - 0.05116279069767442
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=4', 'Type=Fulltext'} - 0.059593023255813955
+{'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Length_pagecount=3.0', 'PageScore=(24.277, 1174.6]'} - 0.06002906976744186
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext', 'CatName=Trip'} - 0.06984011627906976
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'TopicName=In general', 'Type=Fulltext'} - 0.07688953488372093
+{'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info', 'SequenceNumber=1'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'Length_pagecount=2.0', 'Type=Fulltext', 'PageScore=(24.277, 1174.6]'} - 0.07434593023255814
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'TopicName=In general'} - 0.18321220930232557
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'} - 0.050872093023255814
+{'Referrer=URI_42', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.08350290697674419
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'} - 0.11816860465116279
+{'CatName=Info', 'SequenceNumber=1', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.06082848837209302
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'} - 0.09600290697674418
+{'TopicName=In general', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'} - 0.054360465116279066
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'} - 0.11816860465116279
+{'Hour=(13.8, 18.4]', 'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.06373546511627907
+{'CatName=Trip', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.05690406976744186
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1', 'TopicName=In general', 'PageName=TravelAgency'} - 0.11940406976744186
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext', 'CatName=Search'} - 0.06896802325581396
+{'Hour=(18.4, 23.0]', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.05094476744186047
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'} - 0.15138081395348837
+{'SequenceNumber=2', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.09142441860465116
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Length_pagecount=3.0', 'Type=Fulltext', 'CatName=Search'} - 0.05116279069767442
+{'TopicName=In general', 'CatName=Info', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'Type=Fulltext'} - 0.06206395348837209
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.06082848837209302
+{'PageScore=(24.277, 1174.6]', 'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'} - 0.05079941860465116
+{'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Search'} - 0.08328488372093024
+{'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Info', 'TopicName=In general', 'PageName=TravelAgency'} - 0.05
+{'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Day=Tuesday', 'Type=Fulltext', 'CatName=Search'} - 0.052688953488372096
+{'CatName=Trip', 'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.0688953488372093
+{'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.061555232558139536
+{'Day=Monday', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.06068313953488372
+{'TopicName=In general', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.07390988372093023
+{'Hour=(9.2, 13.8]', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext', 'CatName=Search'} - 0.08866279069767442
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'} - 0.061555232558139536
+{'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'Hour=(9.2, 13.8]', 'CatName=Trip', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.07093023255813953
+{'Hour=(9.2, 13.8]', 'TopicName=In general', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'} - 0.06053779069767442
+{'Hour=(9.2, 13.8]', 'Referrer=URI_42', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.06773255813953488
+{'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]', 'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.08299418604651163
+{'Hour=(13.8, 18.4]', 'CatName=Trip', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'} - 0.06315406976744187
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'} - 0.05232558139534884
+{'CatName=Info', 'SequenceNumber=1', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.06082848837209302
+{'TopicName=In general', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'} - 0.11954941860465117
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'} - 0.11816860465116279
+{'Hour=(9.2, 13.8]', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Referrer=URI_80', 'Type=Fulltext'} - 0.050218023255813954
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07688953488372093
+{'PageScore=(24.277, 1174.6]', 'CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Referrer=URI_9', 'Type=Catalogue'} - 0.05864825581395349
+{'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'TopicName=In general', 'CatName=Info', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'SequenceNumber=1', 'Type=Fulltext'} - 0.06082848837209302
+{'TopicName=In general', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'Type=Fulltext'} - 0.061555232558139536
+{'TopicName=In general', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.07645348837209302
+{'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'PageScore=(24.277, 1174.6]', 'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'} - 0.11816860465116279
+{'CatName=Info', 'SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'} - 0.060392441860465114
+{'TopicName=In general', 'CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'SequenceNumber=1', 'Type=Fulltext'} - 0.060392441860465114

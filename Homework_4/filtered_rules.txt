@@ -1,0 +1,100 @@
+1) ['CatName=Search', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8800436205016359 and support 0.05864825581395349 
+2) ['CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8800436205016359 and support 0.05864825581395349 
+3) ['CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8792165397170838 and support 0.05872093023255814 
+4) ['CatName=Search', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8785249457700651 and support 0.05886627906976744 
+5) ['PageScore=(24.277, 1174.6]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.874492099322799 and support 0.1407703488372093 
+6) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.87420814479638 and support 0.14040697674418604 
+7) ['Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8741103202846976 and support 0.14280523255813954 
+8) ['TimeOnPage=(27.39, 552.0]', 'Type=Catalogue'] => Referrer=URI_9 has confidence: 0.8740440845704005 and support 0.14120639534883722 
+9) ['SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => CatName=Info has confidence: 0.8639705882352942 and support 0.11954941860465117 
+10) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1'] => CatName=Info has confidence: 0.8639705882352942 and support 0.11954941860465117 
+11) ['SequenceNumber=1', 'TopicName=In general', 'PageScore=(24.277, 1174.6]'] => CatName=Info has confidence: 0.8638961038961039 and support 0.12085755813953489 
+12) ['TopicName=In general', 'SequenceNumber=1'] => CatName=Info has confidence: 0.863447559709242 and support 0.12085755813953489 
+13) ['SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => PageName=TravelAgency has confidence: 0.8539915966386554 and support 0.11816860465116279 
+14) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'] => PageName=TravelAgency has confidence: 0.8539915966386554 and support 0.11816860465116279 
+15) ['PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'TopicName=In general'] => PageName=TravelAgency has confidence: 0.8535064935064935 and support 0.11940406976744186 
+16) ['TopicName=In general', 'SequenceNumber=1'] => PageName=TravelAgency has confidence: 0.8530633437175493 and support 0.11940406976744186 
+17) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'SequenceNumber=1', 'Type=Fulltext'] => CatName=Info has confidence: 0.8328416912487709 and support 0.061555232558139536 
+18) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1', 'Type=Fulltext'] => CatName=Info has confidence: 0.8328416912487709 and support 0.061555232558139536 
+19) ['PageScore=(24.277, 1174.6]', 'TopicName=In general', 'SequenceNumber=1', 'Type=Fulltext'] => CatName=Info has confidence: 0.8323586744639375 and support 0.06206395348837209 
+20) ['SequenceNumber=1', 'TopicName=In general', 'Type=Fulltext'] => CatName=Info has confidence: 0.8315481986368063 and support 0.06206395348837209 
+21) ['PageScore=(24.277, 1174.6]', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8268398268398268 and support 0.15268895348837208 
+22) ['PageScore=(24.277, 1174.6]', 'CatName=Info', 'TopicName=In general'] => PageName=TravelAgency has confidence: 0.8268398268398268 and support 0.15268895348837208 
+23) ['CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'] => PageName=TravelAgency has confidence: 0.8262594208647362 and support 0.15138081395348837 
+24) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8262594208647362 and support 0.15138081395348837 
+25) ['TimeOnPage=(27.39, 552.0]', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8260007927070947 and support 0.15145348837209302 
+26) ['CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => PageName=TravelAgency has confidence: 0.8260007927070947 and support 0.15145348837209302 
+27) ['CatName=Info'] => PageName=TravelAgency has confidence: 0.8246778602108552 and support 0.15348837209302327 
+28) ['TopicName=In general', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8246778602108552 and support 0.15348837209302327 
+29) ['Hour=(9.2, 13.8]', 'CatName=Info', 'PageScore=(24.277, 1174.6]'] => PageName=TravelAgency has confidence: 0.8219832735961768 and support 0.05 
+30) ['TopicName=In general', 'PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8219832735961768 and support 0.05 
+31) ['Hour=(9.2, 13.8]', 'CatName=Info'] => PageName=TravelAgency has confidence: 0.8199052132701422 and support 0.05029069767441861 
+32) ['Hour=(9.2, 13.8]', 'CatName=Info', 'TopicName=In general'] => PageName=TravelAgency has confidence: 0.8199052132701422 and support 0.05029069767441861 
+33) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'SequenceNumber=1', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.8171091445427728 and support 0.060392441860465114 
+34) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.8171091445427728 and support 0.060392441860465114 
+35) ['TopicName=In general', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.8157894736842105 and support 0.06082848837209302 
+36) ['SequenceNumber=1', 'TopicName=In general', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.8149951314508277 and support 0.06082848837209302 
+37) ['CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7963663890991673 and support 0.07645348837209302 
+38) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'CatName=Info', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7963663890991673 and support 0.07645348837209302 
+39) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7963663890991673 and support 0.07645348837209302 
+40) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'CatName=Info', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7963663890991673 and support 0.07645348837209302 
+41) ['CatName=Info', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7960872836719337 and support 0.07688953488372093 
+42) ['TopicName=In general', 'PageScore=(24.277, 1174.6]', 'CatName=Info', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7960872836719337 and support 0.07688953488372093 
+43) ['CatName=Info', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7941616766467067 and support 0.07710755813953489 
+44) ['CatName=Info', 'TopicName=In general', 'Type=Fulltext'] => PageName=TravelAgency has confidence: 0.7941616766467067 and support 0.07710755813953489 
+45) ['PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7911153119092628 and support 0.06082848837209302 
+46) ['PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7911153119092628 and support 0.06082848837209302 
+47) ['TopicName=In general', 'PageName=TravelAgency', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7911153119092628 and support 0.06082848837209302 
+48) ['PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'TopicName=In general', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7911153119092628 and support 0.06082848837209302 
+49) ['TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+50) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+51) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+52) ['TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+53) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+54) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+55) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+56) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'TopicName=In general', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7899239543726235 and support 0.060392441860465114 
+57) ['PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7888784165881243 and support 0.06082848837209302 
+58) ['TopicName=In general', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7888784165881243 and support 0.06082848837209302 
+59) ['CatName=Info', 'PageName=TravelAgency', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7888784165881243 and support 0.06082848837209302 
+60) ['TopicName=In general', 'PageName=TravelAgency', 'CatName=Info', 'Type=Fulltext'] => SequenceNumber=1 has confidence: 0.7888784165881243 and support 0.06082848837209302 
+61) ['PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7820085673488816 and support 0.11940406976744186 
+62) ['PageScore=(24.277, 1174.6]', 'TopicName=In general', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7820085673488816 and support 0.11940406976744186 
+63) ['CatName=Info', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7820085673488816 and support 0.11940406976744186 
+64) ['TopicName=In general', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info'] => SequenceNumber=1 has confidence: 0.7820085673488816 and support 0.11940406976744186 
+65) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7806048967834853 and support 0.11816860465116279 
+66) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'PageName=TravelAgency', 'CatName=Info'] => SequenceNumber=1 has confidence: 0.7806048967834853 and support 0.11816860465116279 
+67) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'PageScore=(24.277, 1174.6]'] => SequenceNumber=1 has confidence: 0.7806048967834853 and support 0.11816860465116279 
+68) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'PageScore=(24.277, 1174.6]', 'CatName=Info'] => SequenceNumber=1 has confidence: 0.7806048967834853 and support 0.11816860465116279 
+69) ['TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7802303262955854 and support 0.11816860465116279 
+70) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7802303262955854 and support 0.11816860465116279 
+71) ['CatName=Info', 'TimeOnPage=(27.39, 552.0]', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.7802303262955854 and support 0.11816860465116279 
+72) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageName=TravelAgency', 'CatName=Info'] => SequenceNumber=1 has confidence: 0.7802303262955854 and support 0.11816860465116279 
+73) ['PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.777935606060606 and support 0.11940406976744186 
+74) ['PageName=TravelAgency', 'CatName=Info'] => SequenceNumber=1 has confidence: 0.777935606060606 and support 0.11940406976744186 
+75) ['TopicName=In general', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.777935606060606 and support 0.11940406976744186 
+76) ['CatName=Info', 'TopicName=In general', 'PageName=TravelAgency'] => SequenceNumber=1 has confidence: 0.777935606060606 and support 0.11940406976744186 
+77) ['CatName=Search', 'SequenceNumber=1'] => Type=Fulltext has confidence: 0.7678571428571428 and support 0.053125 
+78) ['SequenceNumber=1', 'CatName=Search', 'PageScore=(24.277, 1174.6]'] => Type=Fulltext has confidence: 0.7676130389064142 and support 0.053052325581395346 
+79) ['SequenceNumber=1', 'TimeOnPage=(27.39, 552.0]', 'CatName=Search'] => Type=Fulltext has confidence: 0.7667731629392971 and support 0.05232558139534884 
+80) ['CatName=Search', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'SequenceNumber=1'] => Type=Fulltext has confidence: 0.7667731629392971 and support 0.05232558139534884 
+81) ['TopicName=In general', 'PageScore=(24.277, 1174.6]'] => CatName=Info has confidence: 0.7637511271415689 and support 0.1846656976744186 
+82) ['PageScore=(24.277, 1174.6]', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => CatName=Info has confidence: 0.7632455343627006 and support 0.18321220930232557 
+83) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => CatName=Info has confidence: 0.7629271242818264 and support 0.1833575581395349 
+84) ['TopicName=In general'] => CatName=Info has confidence: 0.762656343061346 and support 0.18611918604651162 
+85) ['Hour=(9.2, 13.8]', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => CatName=Info has confidence: 0.7584014532243415 and support 0.06068313953488372 
+86) ['TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]', 'TopicName=In general', 'Hour=(9.2, 13.8]'] => CatName=Info has confidence: 0.7579617834394905 and support 0.06053779069767442 
+87) ['PageScore=(24.277, 1174.6]', 'Hour=(9.2, 13.8]', 'TopicName=In general'] => CatName=Info has confidence: 0.7567811934900542 and support 0.06082848837209302 
+88) ['TopicName=In general', 'Hour=(9.2, 13.8]'] => CatName=Info has confidence: 0.7562724014336917 and support 0.06133720930232558 
+89) ['PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]', 'TopicName=In general'] => CatName=Info has confidence: 0.7495029821073559 and support 0.054796511627906976 
+90) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'Hour=(13.8, 18.4]'] => CatName=Info has confidence: 0.7487487487487487 and support 0.054360465116279066 
+91) ['Hour=(13.8, 18.4]', 'TimeOnPage=(27.39, 552.0]', 'TopicName=In general'] => CatName=Info has confidence: 0.7479999999999999 and support 0.054360465116279066 
+92) ['TopicName=In general', 'Hour=(13.8, 18.4]'] => CatName=Info has confidence: 0.7472959685349067 and support 0.055232558139534885 
+93) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'PageScore=(24.277, 1174.6]', 'Type=Fulltext'] => CatName=Info has confidence: 0.7310459324847814 and support 0.09600290697674418 
+94) ['PageScore=(24.277, 1174.6]', 'TopicName=In general', 'Type=Fulltext'] => CatName=Info has confidence: 0.731023102310231 and support 0.09658430232558139 
+95) ['TimeOnPage=(27.39, 552.0]', 'SequenceNumber=2'] => CatName=Search has confidence: 0.7308481532147743 and support 0.15530523255813952 
+96) ['SequenceNumber=2', 'TimeOnPage=(27.39, 552.0]', 'PageScore=(24.277, 1174.6]'] => CatName=Search has confidence: 0.7308481532147743 and support 0.15530523255813952 
+97) ['TimeOnPage=(27.39, 552.0]', 'TopicName=In general', 'Type=Fulltext'] => CatName=Info has confidence: 0.730641592920354 and support 0.09600290697674418 
+98) ['SequenceNumber=2', 'PageScore=(24.277, 1174.6]'] => CatName=Search has confidence: 0.7297205180640763 and support 0.15559593023255813 
+99) ['TopicName=In general', 'Type=Fulltext'] => CatName=Info has confidence: 0.7288597926895799 and support 0.09709302325581395 
+100) ['SequenceNumber=2'] => CatName=Search has confidence: 0.7271808689794544 and support 0.15690406976744187 
