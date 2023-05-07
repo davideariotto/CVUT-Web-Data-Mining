@@ -1,12 +1,6 @@
-user ID,content based precision,content based recall,content based f-measure,collaborative based precison,collaborative based recall,collaborative based f-measure,"
-"
-1,0.040,0.018,0.024,0.020,0.009,0.012,"
-"
-3,0.060,0.158,0.087,0.020,0.053,0.029,"
-"
-4,0.120,0.056,0.076,0.087,0.037,0.051,"
-"
-6,0.180,0.057,0.087,0.020,0.006,0.010,"
-"
-11,0.020,0.031,0.024,0.060,0.094,0.073,"
-"
+user ID,content based precision,content based recall,content based f-measure,collaborative based precison,collaborative based recall,collaborative based f-measure,\r\n
+1,0.040,0.018,0.024,0.020,0.009,0.012,\r\n
+3,0.060,0.158,0.087,0.020,0.053,0.029,\r\n
+4,0.120,0.056,0.076,0.087,0.037,0.051,\r\n
+6,0.180,0.057,0.087,0.020,0.006,0.010,\r\n
+11,0.020,0.031,0.024,0.060,0.094,0.073,\r\n
